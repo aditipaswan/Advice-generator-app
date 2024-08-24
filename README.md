@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/mkboris/Advice-generator-app)
-- [Live Site](https://advice-generator-app-omega-beryl.vercel.app/)
+- [Solution](https://github.com/aditipaswan/Advice-generator-app)
+  
 
 ### Built with
 
@@ -65,4 +65,4 @@ I find working with APIs quite facinating so I will continue to improve my skill
 
 ## Author
 
-- Frontend Mentor - [@mkboris](https://www.frontendmentor.io/profile/mkboris)
+- Frontend Mentor - [@mkboris](https://www.frontendmentor.io/profile/aditipaswan)
