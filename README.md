@@ -66,3 +66,5 @@ I find working with APIs quite facinating so I will continue to improve my skill
 ## Author
 
 - Frontend Mentor - [@aditipaswan](https://www.frontendmentor.io/profile/aditipaswan)
+
+- Preview - https://ap-advice-generator-app.netlify.app
